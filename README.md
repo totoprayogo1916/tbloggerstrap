@@ -1,12 +1,12 @@
 # Bstrap Blogger Template（Theme)
 
-![GitHub release (latest by date)](https://img.shields.io/github/release/rulnoveid/tbloggerstrap)
+![GitHub release (latest by date)](https://img.shields.io/github/release/totoprayogo1916/tbloggerstrap)
 ![GitHub](https://img.shields.io/github/license/rulnoveid/tbloggerstrap)
-[![GitHub stars](https://img.shields.io/github/stars/rulnoveid/tbloggerstrap)](https://github.com/rulnoveid/tbloggerstrap/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/totoprayogo1916/tbloggerstrap)](https://github.com/totoprayogo1916/tbloggerstrap/stargazers)
 
 Blogger theme (template) designed with Bootstrap 5.3
 
-[ [DEMO](https://bstrap.inputekno.com) ] [ [FEATURE](#feature) ] [ [CHANGELOG](CHANGELOG.md) ]
+[ [DEMO](https://tbloggerstrap.blogspot.com) ] [ [FEATURE](#feature) ]
 
 ![DEMO](/media/screenshot-homepage.png)
 
@@ -46,7 +46,3 @@ Enter the following code
 <div class='loading'>Just wait. Sitemap is loading....</div>
 <script defer='defer' src='https://cdn.jsdelivr.net/gh/rulnoveid/CodeBlog@main/widget/js/sitemap.min.js' type='text/javascript'/>
 ```
-
-## License：MIT
-
-This package is [MIT licensed](https://github.com/rulnoveid/tbloggerstrap/blob/main/LICENSE).
